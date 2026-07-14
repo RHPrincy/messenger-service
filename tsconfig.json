@@ -9,6 +9,8 @@
     "ignoreDeprecations": "6.0",
     "strict": false,
     "skipLibCheck": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
     "types": ["node"]
   },
   "include": ["src/**/*.ts"]
